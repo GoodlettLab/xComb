@@ -2,7 +2,12 @@
 ## What is xComb?  
 xComb is a program that computes all possible cross-links based on proteins of
 interest(Max. 30 proteins) for further interrogation using standard search
-engine (e.g. Phenyx, Mascot, Sequest, OMSSA, X!Tandem)  
+engine (e.g. Phenyx, Mascot, Sequest, OMSSA, X!Tandem). If you use xComb, please
+cite our original publication:
+
+Panchaud A, Singh P, Shaffer S a, Goodlett DR. xComb: A Cross-Linked Peptide
+Database Approach to Protein-Protein Interaction Analysis. J Proteome Res
+2010;9:2508–15. [[Link]](http://pubs.acs.org/doi/abs/10.1021/pr9011816)
 
 ## Licensing Information  
 xComb is available as open source software here on GitHub, under the GNU
