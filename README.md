@@ -16,12 +16,12 @@ Though we offer xComb free for non-profit and academic use, commercial interests
 should be directed through the Unversity of Washington Express Licensing Program
 at:  
 
-UW CoMotion
-4545 Roosevelt Way NE, Suite 400
-Seattle, WA 98105
-Phone: (206) 543-3970
-Fax: (206) 616-3322
-Email: license@uw.edu
+UW CoMotion  
+4545 Roosevelt Way NE, Suite 400  
+Seattle, WA 98105  
+Phone: (206) 543-3970  
+Fax: (206) 616-3322  
+Email: license@uw.edu  
 
 
 ## How do I use it? (2 options)
